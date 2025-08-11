@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529347841999",
+    "project_id": "gasgowebapp",
+    "storage_bucket": "gasgowebapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529347841999:android:72ba31c541328e9dc60cba",
+        "android_client_info": {
+          "package_name": "com.mawuena.gasgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo3Vm51kTvWf-LUgObrZ-A8Q6GgjxVc38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
